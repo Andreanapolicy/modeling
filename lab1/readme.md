@@ -20,3 +20,5 @@ bin/ - директория со скриптами сборки и запуск
 ```
 
 Посмотреть, что получилось, можно в http://localhost:90/
+
+Пример работы(screencast) можно посмотреть [тут](https://drive.google.com/file/d/1uC0vVMrE9Z0iuMxlOYhKvAh1DWlu4N7V/view?usp=sharing)
